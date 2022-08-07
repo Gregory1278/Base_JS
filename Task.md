@@ -1,6 +1,8 @@
 ### 1) С помощью prompt и alert написать вопрос и ответ
 
 - 1.1) Узнать какой тип данных возвращает prompt и как изменить тип данных (HARD level)
+- тебе поможет https://learn.javascript.ru/types
+- https://learn.javascript.ru/alert-prompt-confirm
 
 ### 2) Создать условное ветвление (if...else)
 
