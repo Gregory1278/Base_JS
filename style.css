@@ -1,0 +1,20 @@
+button {
+    width: 200px;
+    background-color: aqua;
+}
+
+button:hover {
+    background-color: rgb(243, 186, 0);
+}
+
+
+/* 
+#qwe {
+    background-color: brown;
+    width: 123px;
+}
+
+.ewq {
+    background-color: rgb(50, 199, 107);
+    width: 444px;
+} */
